@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'myFont';
+    src: url('./fonts/Inter/static/Inter_18pt-Light.ttf');
+    font-weight: 400; /* Regular */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'myFont_m';
+    src: url('./fonts/Inter/static/Inter_18pt-Medium.ttf');
+    font-weight: 500; /* Medium */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'myFont_b';
+    src: url('./fonts/Inter/static/Inter_18pt-Bold.ttf');
+    font-weight: 600; /* Bold */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'myFont_xb';
+    src: url('./fonts/Inter/static/Inter_18pt-ExtraBold.ttf');
+    font-weight: 700; /* ExtraBold */
+    font-style: normal;
+}
